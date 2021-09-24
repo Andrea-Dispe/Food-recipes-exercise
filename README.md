@@ -2,7 +2,7 @@
 
 
 
-This project was made to practice with React avoiding to use any backend and db.
+This project was made to practice with React avoiding to use any backend and db and to practive to use useContext hook to pass data to the components. 
 
 The app has 2 pages:
 
